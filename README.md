@@ -124,4 +124,4 @@ Restart Streamlit after adding or editing `.streamlit/config.toml`. The theme fi
 
 Designed and developed by **Dibyajyoti Swain**.
 
-Built with [Streamlit](https://streamlit.io), [pandas](https://pandas.pydata.org) and [Plotly](https://plotly.com/python/).
+
