@@ -1,2 +1,2 @@
 # Ekatrit-App-Prototype
-An Fundraising App Protoype initiative 
+A Fundraising App Protoype initiative 
