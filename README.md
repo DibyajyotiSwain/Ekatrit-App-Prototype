@@ -6,6 +6,8 @@ EKATRIT is a community giving platform prototype built with Streamlit. It brings
 
 > **Prototype only.** EKATRIT does not process real payments, verify organisations or issue receipts. All amounts, campaigns and contributions are simulated.
 
+STREAMLIT APP LINK: https://ekatrit-app-prototype-dibyajyoti.streamlit.app/ 
+
 ---
 
 ## Features
