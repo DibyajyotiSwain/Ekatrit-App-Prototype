@@ -1,0 +1,7 @@
+campaign_id,title,category,organiser,city,description,goal,raised,donors,status,deadline,owner_email
+C001,Learning kits for 200 village students,Education,Utkal Shiksha Sathi,Bhubaneswar,"Notebooks, geometry boxes and school bags for children in government primary schools.",120000,78500,64,Active,2026-12-12,seed@ekatrit.demo
+C002,Mobile health camp for coastal hamlets,Health,Sagar Seva Trust,Puri,"Monthly check-ups, basic medicines and referral support for fishing communities.",250000,164000,112,Active,2026-12-27,seed@ekatrit.demo
+C003,Community kitchen for daily-wage families,Food & Nutrition,Anna Daan Collective,Cuttack,"Hot, nutritious meals served five days a week near the central market.",90000,91200,143,Completed,2026-10-28,seed@ekatrit.demo
+C004,"10,000 native saplings for Chilika's edge",Environment,Green Odisha Youth,Khordha,Mangrove and native tree plantation with local volunteers and a 12-month care plan.,150000,52000,41,Active,2027-01-11,seed@ekatrit.demo
+C005,Sewing units for women artisans,Livelihood,Nari Shakti Samavaya,Sambalpur,Machines and training to help 25 women start home-based tailoring work.,180000,97500,58,Active,2026-12-07,seed@ekatrit.demo
+C006,Flood-season emergency supply stock,Disaster Relief,Jan Raksha Mandal,Balasore,"Pre-positioned tarpaulins, water purifiers and dry rations ahead of the monsoon.",300000,0,0,Pending Review,2027-01-31,seed@ekatrit.demo
